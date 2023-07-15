@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016438781934",
+    "project_id": "cursoandroid-ieca",
+    "storage_bucket": "cursoandroid-ieca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016438781934:android:9aba90cd8a858b7aa9c0ff",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016438781934-b7cr83p9dseorhjl96vrleagqc4kuads.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCPwW6daQUR4NKCHWHf49A_3vW1yBvWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016438781934-b7cr83p9dseorhjl96vrleagqc4kuads.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
